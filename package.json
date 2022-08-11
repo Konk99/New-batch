@@ -1,0 +1,20 @@
+{
+  "name": "mod-3---git-and-nmp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Konk99/New-batch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Konk99/New-batch/issues"
+  },
+  "homepage": "https://github.com/Konk99/New-batch#readme"
+}
